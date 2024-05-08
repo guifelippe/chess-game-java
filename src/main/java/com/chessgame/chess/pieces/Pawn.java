@@ -76,7 +76,7 @@ public class Pawn extends ChessPiece
             if(getBoard().positionExists(positionAux) && isThereOpponentPiece(positionAux))
                 matrix[positionAux.getRow()][positionAux.getColumn()] = true;
 
-            positionAux.setValues(position.getRow() - 1, position.getColumn() + 1);
+            positionAux.setValues(position.getRow() + 1, position.getColumn() + 1);
             if(getBoard().positionExists(positionAux) && isThereOpponentPiece(positionAux))
                 matrix[positionAux.getRow()][positionAux.getColumn()] = true;
 
