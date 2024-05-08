@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7593a639-c112-45bf-b8db-8feba357be9f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chessgame/chess/ChessException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chessgame/chess/ChessPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/chessgame/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chessgame/application/UI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/chessgame/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chessgame/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
